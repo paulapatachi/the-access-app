@@ -65,4 +65,4 @@ About the app:
 - the application is using .net8
 - check the json file content to be in the correct format
 - executing an invalid command will return an error message
-- a booking is considered valid only if `arrival date > departure date`
+- a booking is considered valid only if `departure date > arrival date`
